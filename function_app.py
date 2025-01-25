@@ -15,8 +15,8 @@ MODEL_CONTAINER_NAME = "models"  # Your blob container name
 MODEL_BLOB_NAME = "irmodel.keras"  # The name of the blob containing the model
 
 # Twilio credentials (store securely in Application Settings)
-TWILIO_ACCOUNT_SID = 'AC60477f1e3fab56150ebfe3e4e4c2f108'
-TWILIO_AUTH_TOKEN = 'a783b6150de99b8ba8dfac2f00935ba6'
+TWILIO_ACCOUNT_SID = 'xxxxxxxxxxxxxxxxxxxxxxx'
+TWILIO_AUTH_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxx'
 TWILIO_WHATSAPP_FROM = "whatsapp:+14155238886"  # Twilio's WhatsApp sandbox number
 
 # Function to send WhatsApp messages with optional media
